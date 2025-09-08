@@ -5,7 +5,7 @@
 
 یک خروجی نمونه
 <img src="https://github.com/hnadi14/tensoflow/blob/main/myplot.png" alt="خروجی" width="400"/>
-![خروجی](https://github.com/hnadi14/tensoflow/blob/main/myplot.png)
+
 
 ارتباط ها
 <img src="https://github.com/hnadi14/tensoflow/blob/main/relation_features.png" alt="ارتباط ها" width="400"/>
